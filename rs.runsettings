@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <ConnectionString>
+        Data Source=(localdb)\MSSQLLocalDB;Database=PastryShop;Trusted_Connection=True;MultipleActiveResultSets=True
+      </ConnectionString>
+    </EnvironmentVariables>
+  </RunConfiguration>
+  <TestRunParameters>
+    <Parameter name="cs" value="Data Source=(localdb)\MSSQLLocalDB;Database=PastryShop;Trusted_Connection=True;MultipleActiveResultSets=True" />
+  </TestRunParameters>
+</RunSettings>
